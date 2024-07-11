@@ -251,15 +251,7 @@ nav ul li {
 }
 
 /* target part */
-/* .content-target { 
-    position: relative;
-    width: 1440px;
-    height: 5245px;
-    top: 90px;
-    text-align: center;
-    margin: 111px 0px;
-    background: rgb(255, 255, 255)
-} */
+
 .content-target {
     width: 1140px;
     height: 460px;
@@ -278,12 +270,6 @@ nav ul li {
     align-items: center;
     padding: 0px;
 
-}
-
-.target-text {
-    position: static;
-    width: 852px;
-    height: 113px;
 }
 
 .skills {
@@ -331,6 +317,7 @@ nav ul li {
     padding-left: 40px;
     padding-top: 5px;
 }
+
 /* JavaScript */
 
 .javascript-section {
@@ -340,10 +327,42 @@ nav ul li {
     margin: 0px 24px;
     background: rgba(255, 223, 0, 0.05);
 }
-.javascript{
+
+.javascript {
     width: 284px;
     height: 219px;
     text-align: left;
     padding-left: 40px;
     padding-top: 5px;
+}
+
+/* Next Target */
+.next-target {
+    width: 1140px;
+    height: 866px;
+    padding-top: 50px;
+    display: flex;
+    margin: 111px 0px;
+    text-align: center;
+}
+
+.next-target-banner {
+    position: static;
+    width: 1140px;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+}
+
+/* Footer */
+.footer-content {
+    width: 1140px;
+    height: 313px;
+    left: 150px;
+    right: 150px;
+    top: 4752px;
+    bottom: 180px;
 }
