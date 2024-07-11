@@ -109,3 +109,110 @@ nav ul li {
     background-color: black;
 
 }
+
+/* Why web development */
+
+.section {
+    position: absolute;
+    width: 1140px;
+    height: 1395px;
+    left: 148px;
+    right: 152px;
+    top: 857px;
+    bottom: 2993px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+
+.section-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    text-align: center;
+
+}
+
+.section-text-container {
+    position: static;
+    width: 852px;
+    height: 52px;
+}
+
+/* banner 1 styles */
+
+.section-text {
+    position: static;
+    width: 850px;
+    height: 240px;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    padding: 48px;
+
+}
+
+.section.banner {
+    position: static;
+    width: 477px;
+    height: 219px;
+    padding-right: 30px;
+}
+
+.picture {
+    width: 259.56px;
+    height: 217.01px;
+}
+
+/* banner 2 styles */
+
+.section-text2 {
+    position: static;
+    width: 850px;
+    height: 240px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 48px;
+}
+
+
+.section-banner2 {
+    position: static;
+    width: 477px;
+    height: 219px;
+    padding-left: 50px;
+}
+
+.picture2 {
+    position: static;
+    width: 240px;
+    height: 240px;
+}
+
+/* banner 3 styles */
+
+.section-text3 {
+    position: static;
+    width: 850px;
+    height: 240px;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    padding: 48px;
+}
+
+.section-banner3 {
+    position: static;
+    width: 850px;
+    height: 240px;
+    padding-right: 30px;
+}
+
+.picture3 {
+    position: absolute;
+    width: 206.4px;
+    height: 187.32px;
+}
