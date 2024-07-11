@@ -216,3 +216,36 @@ nav ul li {
     width: 206.4px;
     height: 187.32px;
 }
+
+/* Inspiration */
+
+.inspiration {
+    position: absolute;
+    width: 1140px;
+    height: 650px;
+    left: 148px;
+    right: 152px;
+    top: 2200px;
+    bottom: 2130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    text-align: center;
+
+}
+
+.ins-section {
+    position: static;
+    width: 852px;
+    height: 52px;
+
+}
+
+.video {
+    position: static;
+    width: 1076px;
+    height: 550px;
+    
+}
